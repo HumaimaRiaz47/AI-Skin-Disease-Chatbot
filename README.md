@@ -334,17 +334,9 @@ http://127.0.0.1:7860
 > It should NOT be used as a replacement for professional medical advice, diagnosis, or treatment.
 
 ---
+# 🎥 Demo Video
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to GitHub
-5. Open a Pull Request
-
+https://github.com/HumaimaRiaz47/AI-Skin-Disease-Chatbot/assets/demo.mp4
 ---
 
 # ⭐ Support
