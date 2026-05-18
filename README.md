@@ -336,8 +336,7 @@ http://127.0.0.1:7860
 ---
 # 🎥 Demo Video
 
-https://github.com/HumaimaRiaz47/AI-Skin-Disease-Chatbot/assets/demo.mp4
----
+https://drive.google.com/file/d/1pvpGft1e5giPieFld9exWm7bDHb1w0P8/view?usp=sharing---
 
 # ⭐ Support
 
