@@ -71,44 +71,6 @@ The chatbot also supports **voice-based interaction** using Whisper Speech-to-Te
 
             Gradio Web Interface
 ```
-
----
-
-# 📁 Project Structure
-
-```
-AI_Skin_Disease_Chatbot/
-
-│
-
-├── app.py
-├── skin_classifier.py
-├── brain_of_the_doctor.py
-├── voice_of_the_patient.py
-├── voice_of_the_doctor.py
-
-│
-├── models/
-│     └── final_model.pth
-
-│
-├── notebooks/
-│     ├── 01_EDA.ipynb
-│     ├── 02_Preprocessing.ipynb
-│     ├── 03_Train_EfficientNet.ipynb
-│     ├── 04_Evaluation.ipynb
-│     └── 05_Prediction.ipynb
-
-│
-├── dataset/
-
-├── requirements.txt
-
-├── .env
-
-└── README.md
-```
-
 ---
 
 # 🧠 Deep Learning Model
